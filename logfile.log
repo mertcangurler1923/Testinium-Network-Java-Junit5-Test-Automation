@@ -1,0 +1,14 @@
+2022-11-18 20:57:12,323 INFO  [Log] Test Başlatıldı. 
+2022-11-18 20:57:12,968 INFO  [Log] Cookie kapatıldı. 
+2022-11-18 20:57:15,015 INFO  [Log] Textboxa ceket ürünü girildi. 
+2022-11-18 20:57:19,614 INFO  [Log] İkinci sayfaya gidildi. 
+2022-11-18 20:57:40,560 INFO  [Log] Beden seçildi. 
+2022-11-18 20:57:42,192 INFO  [Log] Sepete gidildi. 
+2022-11-18 20:57:42,903 INFO  [Log] Devam et butonuna tıklanıldı. 
+2022-11-18 20:57:45,903 INFO  [Log] Mail ve şifre ile login olundu. 
+2022-11-18 20:57:47,354 INFO  [Log] Network'a tıklanıldı. 
+2022-11-18 20:57:47,674 INFO  [Log] Sepete tıklanıldı. 
+2022-11-18 20:57:48,318 INFO  [Log] Sepetten ürün silindi 
+2022-11-18 20:57:48,391 INFO  [Log] 'SEPETİMDEN ÇIKAR' sorusuna çıkart denildi. 
+2022-11-18 20:57:50,746 INFO  [Log] Test bitti. 
+2022-11-18 20:57:50,746 INFO  [Log] networkTest() PASSED 
